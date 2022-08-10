@@ -2,7 +2,7 @@
     "identifier": "com.burtsev.nova-seeing-is-believing",
     "name": "Seeing Is Believing",
     "organization": "Sergey Burtsev",
-    "description": "Integration with seeing_is_believing gem",
+    "description": "Evaluates Ruby code, recording the results of each line.",
     "version": "1.0",
     "categories": ["commands"],
     "main": "main.js",
