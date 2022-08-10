@@ -1,0 +1,45 @@
+{
+    "identifier": "com.burtsev.nova-seeing-is-believing",
+    "name": "Seeing Is Believing",
+    "organization": "Sergey Burtsev",
+    "description": "Integration with seeing_is_believing gem",
+    "version": "1.0",
+    "categories": ["commands"],
+    "main": "main.js",
+
+    "keywords": [
+        "ruby",
+        "xmpfilter",
+        "repl",
+        "playground"
+    ],
+
+    "repository": "https://github.com/SergeyBurtsev/nova-seeing-is-believing",
+    "homepage": "https://github.com/SergeyBurtsev/nova-seeing-is-believing",
+    "bugs": "https://github.com/SergeyBurtsev/nova-seeing-is-believing/issues",
+
+    "activationEvents": [
+        "onLanguage:ruby"
+    ],
+
+    "entitlements": {
+        "process": true
+    },
+
+    "commands": {
+        "editor": [
+            {
+                "title": "Annotate all lines",
+                "command": "seeing-is-believing.annotateAllLines"
+            },
+            {
+                "title": "Annotate marked lines",
+                "command": "seeing-is-believing.annotateMarkedLines"
+            },
+            {
+                "title": "Remove annotations",
+                "command": "seeing-is-believing.removeAnnotations"
+            }
+        ]
+    }
+}
