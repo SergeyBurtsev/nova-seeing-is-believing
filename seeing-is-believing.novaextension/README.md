@@ -1,7 +1,7 @@
 **Seeing Is Believing** evaluates Ruby code, recording the results of each line.<br>
 If you like Swift Playgrounds, you'll like SiB.
 
-![](https://raw.githubusercontent.com/SergeyBurtsev/nova-seeing-is-believing/main/seeing-is-believing.novaextension/images/example.gif)
+![](https://github.com/SergeyBurtsev/nova-seeing-is-believing/blob/main/seeing-is-believing.novaextension/Images/example.gif?raw=true)
 
 ## Requirements
 
