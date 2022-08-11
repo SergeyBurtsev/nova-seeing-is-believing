@@ -48,7 +48,11 @@ function run(editor, commandArgs) {
     })
 
     process.onDidExit(function(status) {
-        if (err.length > 0) return reject(err)
+        if (err.length > 0) {
+            console.error(err)
+            return
+        }
+
         if (out.length == 0) return
 
         editor.edit((edit) => edit.replace(documentSpan, out))
