@@ -33,6 +33,6 @@ Watch the [video](http://vimeo.com/73866851).
 
 ## Credit
 
-All credit goes to Josh Cheek and [seeing_is_believing](https://github.com/JoshCheek/seeing_is_believing) contributors.
+All credit goes to [Josh Cheek](https://github.com/JoshCheek) and [seeing_is_believing](https://github.com/JoshCheek/seeing_is_believing) gem contributors.
 
 

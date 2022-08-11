@@ -3,8 +3,13 @@
     "name": "Seeing Is Believing",
     "organization": "Sergey Burtsev",
     "description": "Evaluates Ruby code, recording the results of each line.",
-    "version": "1.3",
-    "categories": ["commands"],
+    "version": "1.4",
+
+    "categories": [
+        "commands",
+        "languages"
+    ],
+
     "main": "main.js",
 
     "keywords": [
@@ -15,7 +20,7 @@
     ],
 
     "repository": "https://github.com/SergeyBurtsev/nova-seeing-is-believing",
-    "homepage": "https://github.com/SergeyBurtsev/nova-seeing-is-believing",
+    "homepage": "https://github.com/JoshCheek/seeing_is_believing",
     "bugs": "https://github.com/SergeyBurtsev/nova-seeing-is-believing/issues",
 
     "activationEvents": [
