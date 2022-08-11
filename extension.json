@@ -3,7 +3,7 @@
     "name": "Seeing Is Believing",
     "organization": "Sergey Burtsev",
     "description": "Evaluates Ruby code, recording the results of each line.",
-    "version": "1.1",
+    "version": "1.2",
     "categories": ["commands"],
     "main": "main.js",
 
